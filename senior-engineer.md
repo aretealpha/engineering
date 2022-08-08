@@ -17,7 +17,7 @@ An Arete Senior Engineer is someone who has been "around the block" a few times,
 - Has developed opinions on libraries, languages, tools & practices, and can articulate the reasons behind them
 - Can mentor junior engineers
 - Contributes to architecture & design at a senior level
-- Can stand-in for the team lead when needed
+- Can stand-in for the team-lead when needed
 - Typically has at least 4-5 years of experience
 
 Ideally: has experience with many of the technologies in our [tech-stack](tech-stack.md), especially React, Kotlin/JVM and AWS
