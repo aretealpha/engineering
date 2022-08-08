@@ -1,5 +1,13 @@
 # [Founding] Senior Engineer
 
+## All Engineers @ Arete
+
+Arete Engineers are aligned with [our way of working](engieering-at-arete.md).  This means they're nice, smart, curious, creative, and show initiative.  
+
+Technically, they are (or aspire to be) full-stack.  This means they are willing to be involved in every aspect of software engineering, from front end, to database, to requirements analysis, to helping choose which technology to use. This does not mean you have to be an expert in everything, most of us are only an expert in one, sometimes two areas. It does mean that you will be brought up to speed with a basic competence in all aspects of software engineering. 
+
+Ideally, they are enthusiastic about our [tech-stack](tech-stack.md) and [techniques-and-practices](techniques-and-practices.md)
+
 ## Senior Engineers @ Arete
 
 An Arete Senior Engineer is someone who has been "around the block" a few times, and has the scars & wisdom to prove it.
@@ -12,3 +20,4 @@ An Arete Senior Engineer is someone who has been "around the block" a few times,
 - Can stand-in for the team lead when needed
 - Typically has at least 4-5 years of experience
 
+Ideally: has experience with many of the technologies in our [tech-stack](tech-stack.md), especially React & Kotlin/JVM
