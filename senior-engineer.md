@@ -4,7 +4,7 @@
 
 Arete Engineers are aligned with [our way of working](engineering-at-arete.md).  This means they're nice, smart, curious, creative, and show initiative.  
 
-Technically, they are (or aspire to be) full-stack.  This means they are willing to be involved in every aspect of software engineering, from front end, to database, to requirements analysis, to helping choose which technology to use. This does not mean you have to be an expert in everything, most of us are only an expert in one, sometimes two areas. It does mean that you will be brought up to speed with a basic competence in all aspects of software engineering. 
+Technically, they are (or aspire to be) full-stack.  This means they are willing to be involved in every aspect of software engineering, from front end, to database, to requirements analysis, to helping choose which technology to use. This does not mean they have to be an expert in everything, most of us are only an expert in one, sometimes two areas. It does mean that they will be brought up to speed with a basic competence in all aspects of software engineering. 
 
 Ideally, they are enthusiastic about our [tech-stack](tech-stack.md) and [techniques-and-practices](techniques-and-practices.md)
 
